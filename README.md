@@ -21,7 +21,7 @@ Screenshot 2 Tablet - https://ibb.co/3TF8M5s
 Screenshot 3 PC - https://ibb.co/1sZf3Kd
 ### Links
 
-- Live Site URL: https://iraklido.github.io/suite-landing-page/
+- Live Site URL: https://iraklidk.github.io/suite-landing-page/
 
 ### Built with
 
